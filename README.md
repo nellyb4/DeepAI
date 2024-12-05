@@ -1,2 +1,2 @@
 # DeepAI
-My first time developing a DL model
+My first DL model!
